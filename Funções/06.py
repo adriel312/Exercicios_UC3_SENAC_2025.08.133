@@ -5,4 +5,4 @@ def soma_nat(n):
         return n + soma_nat(n-1)
 
     
-print(soma_nat(3))
+print(soma_nat(5))
